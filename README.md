@@ -1,6 +1,6 @@
 # Covid Daily cases
 
-Covid Daily Cases é um desafio front-end proposto pela Coodesh. É um programa que mostra um mapa de onde se obtém os dados do número de casos de Covid-19 por país e por data.
+Covid Daily Cases é um desafio front-end proposto pela Coodesh. É uma aplicação onde mostra um mapa de onde se obtém os dados do número de casos de Covid-19 por país.
 
 This is a Challenge by [Coodesh](https://coodesh.com/)
 

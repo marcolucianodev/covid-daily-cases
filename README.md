@@ -4,9 +4,9 @@ Covid Daily Cases é um desafio front-end proposto pela Coodesh. É um programa 
 
 This is a Challenge by [Coodesh](https://coodesh.com/)
 
-[![Preview Image](https://github.com/marcolucianodev/covid-daily-cases/blob/master/public/tela-covid-daily-cases.png)](https://markus-social-network.netlify.app/)
+[![Preview Image](https://github.com/marcolucianodev/covid-daily-cases/blob/master/public/tela-covid-daily-cases.png)](https://covid-daily-cases.netlify.app/)
 
-[Link do Projeto Online](https://markus-social-network.netlify.app/)
+[Link do Projeto Online](https://covid-daily-cases.netlify.app/)
 
 ### Pré-requisitos
 
